@@ -1,0 +1,1 @@
+-- Am instalat GitExtension de pe: https://sourceforge.net/projects/gitextensions/files/latest/download
